@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Finwin",
+    "type": "Fintech Web Platform",
+    "year": "2025",
+    "description": "A modern web implementation of 1C accounting workflows built for business operations and financial processes.",
+    "stack": ["C#", ".NET", "Angular", "Database Design", "Deployment"],
+    "impact": "Contributed across software design, backend development, frontend implementation, and deployment in a production environment.",
+    "links": [
+      { "label": "Company Work", "url": "#" },
+      { "label": "Tech Stack", "url": "#" }
+    ]
+  },
+  {
+    "name": "Finbox",
+    "type": "Payment Platform",
+    "year": "2025",
+    "description": "A payment-focused platform delivered as part of professional fintech engineering work with full-stack responsibilities.",
+    "stack": ["ASP.NET Core", "Angular", "PostgreSQL", "Full-Stack Delivery"],
+    "impact": "Helped deliver robust and scalable web solutions for finance-oriented product requirements.",
+    "links": [
+      { "label": "Platform Scope", "url": "#" },
+      { "label": "Implementation Notes", "url": "#" }
+    ]
+  },
+  {
+    "name": "Government & Custom Web Solutions",
+    "type": "Full-Stack Delivery",
+    "year": "2023 - 2024",
+    "description": "A collection of freelance and team-based projects including responsive web apps, Telegram bots, and custom internal systems.",
+    "stack": ["C#/.NET", "React", "Angular", "Telegram Bot", "Windows Server"],
+    "impact": "Combined problem solving, small-team leadership, deployment, and clean architecture practices to ship practical business solutions.",
+    "links": [
+      { "label": "Project Scope", "url": "#" },
+      { "label": "Delivery Focus", "url": "#" }
+    ]
+  }
+]

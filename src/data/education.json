@@ -1,0 +1,20 @@
+[
+  {
+    "institution": "Tashkent University of Information Technologies",
+    "degree": "Bachelor's Degree, Cyber Security",
+    "period": "09/2020 - 07/2024",
+    "details": "Participated in coding clubs, tech workshops, and collaborative projects while strengthening problem solving, teamwork, and practical software development. Core study areas included C++, Python, SQL, JavaScript, web development, data structures and algorithms, encryption, decryption, and cybersecurity."
+  },
+  {
+    "institution": "Najot Ta'lim Digital Academy",
+    "degree": "Apprenticeship, Software Development",
+    "period": "07/2022 - 04/2023",
+    "details": "Completed foundation training in C and Python followed by a .NET bootcamp focused on C#, ASP.NET Core, Entity Framework, REST API development, PostgreSQL, SQL Server, OOP, debugging, and practical backend project delivery."
+  },
+  {
+    "institution": "Online Courses & Certifications",
+    "degree": "Coursera Professional Learning",
+    "period": "2023 - 2024",
+    "details": "Included Building Services with ASP.NET Web API, Object Oriented Development using C#, Programming in C#, Open Source Software Development Methods, and Introduction to Cyber Security Tools & Cyber Attacks."
+  }
+]

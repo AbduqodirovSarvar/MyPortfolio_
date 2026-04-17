@@ -1,0 +1,49 @@
+{
+  "fullName": "Abduqodirov Sarvar",
+  "title": "Full-Stack Engineer | C#/.NET | Angular",
+  "tagline": "Results-driven full-stack engineer with hands-on experience delivering fintech platforms, government web projects, and scalable business applications.",
+  "location": "Tashkent, Uzbekistan",
+  "email": "abduqodirovsarvar.2002@gmail.com",
+  "phone": "+998 (93) 234 03 16",
+  "availability": "Open to full-stack engineering opportunities and high-impact product teams.",
+  "heroImage": "AS",
+  "resumeLabel": "Download Resume",
+  "resumeUrl": "#",
+  "socials": [
+    { "label": "Website", "url": "https://sarvarbekabduqodirov.uz" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/abduqodirov-sarvarbek" },
+    { "label": "Telegram", "url": "https://t.me/Sarvarbek_Abduqodirov" },
+    { "label": "GitHub", "url": "https://github.com/AbduqodirovSarvar" }
+  ],
+  "stats": [
+    { "label": "Fintech products delivered", "value": "2" },
+    { "label": "Professional engineering roles", "value": "6" },
+    { "label": "Core focus", "value": ".NET + Angular" }
+  ],
+  "about": {
+    "intro": "I build secure, scalable, and user-friendly web solutions across backend, frontend, databases, and deployment workflows. My experience includes fintech platforms such as Finwin and Finbox, government-focused products, and collaborative team delivery.",
+    "details": [
+      "Strong foundation in OOP, JavaScript and TypeScript, ASP.NET Core, Angular, Entity Framework Core, and SQL or PostgreSQL.",
+      "Comfortable with software design, backend and frontend development, database design, deployment, and Windows or Linux server environments.",
+      "I enjoy building maintainable systems using SOLID principles, clean architecture ideas, testing practices, and effective teamwork."
+    ],
+    "languages": [
+      "Uzbek - Native",
+      "English - B2",
+      "Russian - B1"
+    ],
+    "certifications": [
+      "Building Services with ASP.NET Web API - Coursera",
+      "Object Oriented Development using C# - Coursera",
+      "Programming in C#: A comprehensive approach to C# Fundamental - Coursera",
+      "Open Source Software Development Methods - Coursera",
+      "Introduction to Cyber Security Tools & Cyber Attacks - Coursera"
+    ]
+  },
+  "contact": {
+    "headline": "Let's build reliable software together.",
+    "description": "If you have a full-stack role, a product to ship, or a team that needs dependable engineering support, I would be glad to connect.",
+    "ctaLabel": "Send an email",
+    "ctaUrl": "mailto:abduqodirovsarvar.2002@gmail.com"
+  }
+}

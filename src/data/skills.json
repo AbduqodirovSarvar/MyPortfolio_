@@ -1,0 +1,14 @@
+[
+  {
+    "category": "Backend & Architecture",
+    "items": ["C#", ".NET", "ASP.NET Core", "EF Core", "REST API", "LINQ", "CQRS", "SOLID", "Design Patterns"]
+  },
+  {
+    "category": "Frontend & Web",
+    "items": ["Angular", "TypeScript", "JavaScript", "HTML", "CSS", "React (Basic)"]
+  },
+  {
+    "category": "Data, DevOps & Delivery",
+    "items": ["PostgreSQL", "SQL Server", "MySQL", "NoSQL", "Docker", "CI/CD", "Nginx", "IIS", "Git", "Swagger", "Postman", "Windows/Linux Server", "Agile", "Debugging", "Teamwork"]
+  }
+]

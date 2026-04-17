@@ -1,0 +1,74 @@
+[
+  {
+    "role": "Software Engineer",
+    "company": "LLC Devops",
+    "period": "01/2025 - Present",
+    "location": "Tashkent",
+    "summary": "Developing web applications including Finwin, a modern web version of 1C accounting, and Finbox, a payment platform.",
+    "highlights": [
+      "Handled software design, backend development, database design, frontend development, and deployment work.",
+      "Built production-ready solutions for fintech-oriented business workflows.",
+      "Worked across the full stack to deliver stable and scalable applications."
+    ]
+  },
+  {
+    "role": "Full-Stack Engineer (C#/.Net & Angular)",
+    "company": "Olmatech LLC",
+    "period": "06/2024 - 01/2025",
+    "location": "Tashkent",
+    "summary": "Handled full-stack development, software deployment, and database management on Windows Server for robust and scalable solutions.",
+    "highlights": [
+      "Delivered backend and frontend features with C#/.NET and Angular.",
+      "Managed deployment and server-related tasks in production-like environments.",
+      "Contributed to database design and operational reliability."
+    ]
+  },
+  {
+    "role": "Full-Stack Engineer (C#/.Net & Angular)",
+    "company": "Bepro-DEVHUB",
+    "period": "05/2024 - 12/2024",
+    "location": "Tashkent",
+    "summary": "Built responsive Angular frontends while delivering backend APIs and database solutions with PostgreSQL.",
+    "highlights": [
+      "Worked on backend development, frontend development, database management, and software architecture.",
+      "Used version control, CI/CD practices, testing, deployment tools, and Agile collaboration.",
+      "Delivered practical full-stack solutions for active product work."
+    ]
+  },
+  {
+    "role": "Intern Full-Stack Engineer",
+    "company": "Bepro-DEVHUB",
+    "period": "05/2024 - 12/2024",
+    "location": "Tashkent",
+    "summary": "Built RESTful APIs, integrated frontend and backend components, and supported deployment tasks.",
+    "highlights": [
+      "Strengthened practical skills in C#, .NET, JavaScript, TypeScript, Angular, and testing.",
+      "Worked with databases, Docker, CI/CD, and external libraries in real development workflows.",
+      "Contributed across the stack while learning product delivery standards."
+    ]
+  },
+  {
+    "role": "Full-Stack Engineer (C#/.NET | React)",
+    "company": "Freelance",
+    "period": "06/2023 - 01/2024",
+    "location": "Tashkent",
+    "summary": "Led small-scale delivery work as a full-stack engineer, combining backend development with frontend implementation.",
+    "highlights": [
+      "Led a small frontend team and kept projects on track with strong quality expectations.",
+      "Worked with clean architecture, databases, Telegram bots, deployment, and Windows Server.",
+      "Built solutions using C#/.NET, React, HTML, CSS, and JavaScript."
+    ]
+  },
+  {
+    "role": "Intern Software Engineer (C#/.NET)",
+    "company": "Itransition",
+    "period": "03/2023 - 06/2023",
+    "location": "Tashkent",
+    "summary": "Developed small web applications and Telegram bots while handling both frontend and backend tasks.",
+    "highlights": [
+      "Worked with C#/.NET, SQL, EF Core, xUnit, Moq, Git, caching, and message broker concepts.",
+      "Improved hands-on software engineering skills through practical delivery tasks.",
+      "Built a strong foundation for scalable backend and web development."
+    ]
+  }
+]
