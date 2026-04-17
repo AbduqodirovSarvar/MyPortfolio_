@@ -30,7 +30,7 @@ function createAppShell(profile) {
     <div class="site-shell">
       <header class="site-header">
         <div class="container site-header__inner">
-          <a class="brand" href="#/" style="width: auto; padding: 0 1rem; background: none; color: var(--text);">${localize(profile.fullName)}</a>
+          <a class="brand" href="#/">${localize(profile.fullName)}</a>
           <nav class="site-nav" aria-label="Main navigation">
             <a href="#/" data-route="/">${t('nav.home')}</a>
             <a href="#/about" data-route="/about">${t('nav.about')}</a>
@@ -51,6 +51,11 @@ function createAppShell(profile) {
       <div class="container">
         <div id="router-outlet"></div>
       </div>
+      <footer class="site-footer">
+        <div class="container site-footer__inner">
+          <p>${t('footer.copyright').replace('{{year}}', new Date().getFullYear())}</p>
+        </div>
+      </footer>
     </div>
   `;
 }

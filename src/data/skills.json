@@ -5,7 +5,7 @@
       "uz": "Backend va Arxitektura",
       "ru": "Бэкенд и Архитектура"
     },
-    "items": ["C#", ".NET", "ASP.NET Core", "EF Core", "REST API", "LINQ", "CQRS", "SOLID", "Design Patterns"]
+    "items": ["C#", ".NET", "ASP.NET Core", "EF Core", "REST API", "LINQ", "CQRS", "SOLID", "Design Patterns", "Unit Testing"]
   },
   {
     "category": {
@@ -21,6 +21,6 @@
       "uz": "Ma'lumotlar, DevOps va Yetkazish",
       "ru": "Данные, DevOps и Доставка"
     },
-    "items": ["PostgreSQL", "SQL Server", "MySQL", "NoSQL", "Docker", "CI/CD", "Nginx", "IIS", "Git", "Swagger", "Postman", "Windows/Linux Server", "Agile", "Debugging", "Teamwork"]
+    "items": ["RabbitMQ", "PostgreSQL", "SQL Server", "MySQL", "NoSQL", "Docker", "CI/CD", "Nginx", "IIS", "Git", "Swagger", "Postman", "Windows/Linux Server", "Agile", "Problem Solving", "Clean Code", "Debugging", "Teamwork"]
   }
 ]

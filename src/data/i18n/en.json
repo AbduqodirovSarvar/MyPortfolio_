@@ -46,5 +46,6 @@
 
   "loading": "Loading experience...",
   "error.title": "Error",
-  "error.message": "Something did not load as expected."
+  "error.message": "Something did not load as expected.",
+  "footer.copyright": "© {{year}} Abduqodirov Sarvar"
 }

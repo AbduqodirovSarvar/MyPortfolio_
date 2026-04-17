@@ -13,33 +13,23 @@
       "ru": "Ташкент"
     },
     "summary": {
-      "en": "Developing web applications including Finwin, a modern web version of 1C accounting, and Finbox, a payment platform.",
-      "uz": "Finwin — 1C buxgalteriyasining zamonaviy veb versiyasi va Finbox — to'lov platformasi kabi veb-ilovalarni ishlab chiqish.",
-      "ru": "Разработка веб-приложений, включая Finwin — современную веб-версию 1С-бухгалтерии, и Finbox — платёжную платформу."
+      "en": "Developing web applications including Finwin(modern web version of 1C accounting) and Finbox(Payment platform).",
+      "uz": "Finwin (1C buxgalteriyasining zamonaviy veb-versiyasi) va Finbox (to'lov platformasi) kabi veb-ilovalarni ishlab chiqish.",
+      "ru": "Разработка веб-приложений, включая Finwin (современная веб-версия бухгалтерии 1С) и Finbox (платежная платформа)."
     },
     "highlights": [
       {
-        "en": "Handled software design, backend development, database design, frontend development, and deployment work.",
-        "uz": "Dasturiy ta'minot dizayni, backend ishlab chiqish, ma'lumotlar bazasi dizayni, frontend ishlab chiqish va deployment ishlari bilan shug'ullandim.",
-        "ru": "Занимался проектированием ПО, бэкенд- и фронтенд-разработкой, проектированием БД и развёртыванием."
-      },
-      {
-        "en": "Built production-ready solutions for fintech-oriented business workflows.",
-        "uz": "Fintexga yo'naltirilgan biznes jarayonlari uchun ishlab chiqarishga tayyor yechimlar yaratdim.",
-        "ru": "Создавал готовые к продакшну решения для финтех-ориентированных бизнес-процессов."
-      },
-      {
-        "en": "Worked across the full stack to deliver stable and scalable applications.",
-        "uz": "Barqaror va kengaytiriladigan ilovalarni yetkazib berish uchun to'liq stekda ishladim.",
-        "ru": "Работал по всему стеку для доставки стабильных и масштабируемых приложений."
+        "en": "Software Design, Back-End Development, Database Design, Front-End Development, Deployment",
+        "uz": "Dasturiy ta'minot dizayni, Back-End ishlab chiqish, ma'lumotlar bazasi dizayni, Front-End ishlab chiqish va Deployment",
+        "ru": "Проектирование ПО, бэкенд-разработка, проектирование баз данных, фронтенд-разработка и развертывание"
       }
     ]
   },
   {
     "role": {
-      "en": "Full-Stack Engineer (C#/.Net & Angular)",
-      "uz": "Full-Stack Muhandis (C#/.Net & Angular)",
-      "ru": "Фулстек-инженер (C#/.Net & Angular)"
+      "en": "Full Stack Engineer (C#/.Net & Angular)",
+      "uz": "Full Stack Muhandis (C#/.Net & Angular)",
+      "ru": "Full Stack инженер (C#/.Net & Angular)"
     },
     "company": "Olmatech LLC",
     "period": "06/2024 — 01/2025",
@@ -49,25 +39,15 @@
       "ru": "Ташкент"
     },
     "summary": {
-      "en": "Handled full-stack development, software deployment, and database management on Windows Server for robust and scalable solutions.",
-      "uz": "Mustahkam va kengaytiriladigan yechimlar uchun Windows Server'da full-stack ishlab chiqish, dasturiy ta'minot deployment va ma'lumotlar bazasi boshqaruvini amalga oshirdim.",
-      "ru": "Занимался фулстек-разработкой, развёртыванием ПО и управлением БД на Windows Server для надёжных и масштабируемых решений."
+      "en": "Handled full-stack development, software deployment, and database management on Windows Server, ensuring robust and scalable solutions.",
+      "uz": "Windows Server platformasida full-stack ishlab chiqish, dasturiy ta'minotni joriy qilish va ma'lumotlar bazasini boshqarish, mustahkam va kengaytiriladigan yechimlarni ta'minlash.",
+      "ru": "Занимался фулстек-разработкой, развертыванием ПО и управлением базами данных на Windows Server, обеспечивая надежные и масштабируемые решения."
     },
     "highlights": [
       {
-        "en": "Delivered backend and frontend features with C#/.NET and Angular.",
-        "uz": "C#/.NET va Angular yordamida backend va frontend funksiyalarini yetkazib berdim.",
-        "ru": "Реализовал бэкенд- и фронтенд-функционал на C#/.NET и Angular."
-      },
-      {
-        "en": "Managed deployment and server-related tasks in production-like environments.",
-        "uz": "Ishlab chiqarishga o'xshash muhitlarda deployment va serverga oid vazifalarni boshqardim.",
-        "ru": "Управлял развёртыванием и серверными задачами в среде, приближённой к продакшну."
-      },
-      {
-        "en": "Contributed to database design and operational reliability.",
-        "uz": "Ma'lumotlar bazasi dizayni va operatsion ishonchlilikka hissa qo'shdim.",
-        "ru": "Вносил вклад в проектирование БД и операционную надёжность."
+        "en": "Software Design, Database Design, Web Development, Software Deployment, Server(Windows & Linux)",
+        "uz": "Dasturiy ta'minot dizayni, ma'lumotlar bazasi dizayni, veb-ishlab chiqish, dasturiy ta'minotni joriy qilish va serverlar bilan ishlash (Windows va Linux)",
+        "ru": "Проектирование ПО, проектирование баз данных, веб-разработка, развертывание ПО и работа с серверами (Windows и Linux)"
       }
     ]
   },
@@ -85,33 +65,23 @@
       "ru": "Ташкент"
     },
     "summary": {
-      "en": "Built responsive Angular frontends while delivering backend APIs and database solutions with PostgreSQL.",
-      "uz": "PostgreSQL bilan backend API va ma'lumotlar bazasi yechimlarini yetkazib berishda responsive Angular frontendlarni yaratdim.",
-      "ru": "Создавал адаптивные Angular-фронтенды, одновременно разрабатывая бэкенд-API и решения для БД с PostgreSQL."
+      "en": "Experienced in developing responsive front-ends using Angular while delivering robust backend APIs and database solutions with PostgreSQL.",
+      "uz": "Angular yordamida responsive frontend qismlarni ishlab chiqish, shu bilan birga PostgreSQL bazasiga asoslangan mustahkam backend API va ma'lumotlar bazasi yechimlarini yetkazib berish.",
+      "ru": "Опыт разработки адаптивных фронтендов на Angular с предоставлением надежных бэкенд-API и решений для баз данных с использованием PostgreSQL."
     },
     "highlights": [
       {
-        "en": "Worked on backend development, frontend development, database management, and software architecture.",
-        "uz": "Backend ishlab chiqish, frontend ishlab chiqish, ma'lumotlar bazasi boshqaruvi va dasturiy ta'minot arxitekturasi ustida ishladim.",
-        "ru": "Работал над бэкенд- и фронтенд-разработкой, управлением БД и архитектурой ПО."
-      },
-      {
-        "en": "Used version control, CI/CD practices, testing, deployment tools, and Agile collaboration.",
-        "uz": "Versiya nazorati, CI/CD amaliyotlari, testlash, deployment vositalari va Agile hamkorlikdan foydalandim.",
-        "ru": "Использовал контроль версий, CI/CD-практики, тестирование, инструменты развёртывания и Agile-методологию."
-      },
-      {
-        "en": "Delivered practical full-stack solutions for active product work.",
-        "uz": "Faol mahsulot ishlari uchun amaliy full-stack yechimlarni yetkazib berdim.",
-        "ru": "Доставлял практические фулстек-решения для активной продуктовой работы."
+        "en": "Backend Development, Frontend Development, Database Management, Software Architecture, Version Control & CI/CD, Testing, External Libraries & Tools, Deployment, Agile",
+        "uz": "Backend ishlab chiqish, Frontend ishlab chiqish, ma'lumotlar bazasini boshqarish, dasturiy ta'minot arxitekturasi, versiyalarni boshqarish va CI/CD, testlash, tashqi kutubxonalar va asboblar, Deployment, Agile",
+        "ru": "Бэкенд-разработка, фронтенд-разработка, управление базами данных, архитектура ПО, контроль версий и CI/CD, тестирование, внешние библиотеки и инструменты, развертывание, Agile"
       }
     ]
   },
   {
     "role": {
-      "en": "Intern Full-Stack Engineer",
-      "uz": "Stajyor Full-Stack Muhandis",
-      "ru": "Стажёр фулстек-инженер"
+      "en": "Intern as a Full-Stack Engineer",
+      "uz": "Stajyor Full-Stack muhandisi",
+      "ru": "Intern Full-Stack инженер"
     },
     "company": "Bepro-DEVHUB",
     "period": "05/2024 — 12/2024",
@@ -121,33 +91,23 @@
       "ru": "Ташкент"
     },
     "summary": {
-      "en": "Built RESTful APIs, integrated frontend and backend components, and supported deployment tasks.",
-      "uz": "RESTful API'lar yaratdim, frontend va backend komponentlarni integratsiya qildim va deployment vazifalarini qo'llab-quvvatladim.",
-      "ru": "Создавал RESTful API, интегрировал фронтенд- и бэкенд-компоненты, помогал с задачами развёртывания."
+      "en": "Built RESTful APIs, integrated frontend and backend components, and assisted with deployment.",
+      "uz": "RESTful API'lar yaratish, frontend va backend komponentlarini integratsiya qilish va joriy qilish (deployment) ishlarida yordam berish.",
+      "ru": "Создание RESTful API, интеграция компонентов фронтенда и бэкенда и помощь в развертывании."
     },
     "highlights": [
       {
-        "en": "Strengthened practical skills in C#, .NET, JavaScript, TypeScript, Angular, and testing.",
-        "uz": "C#, .NET, JavaScript, TypeScript, Angular va testlash bo'yicha amaliy ko'nikmalarni mustahkamladim.",
-        "ru": "Укрепил практические навыки в C#, .NET, JavaScript, TypeScript, Angular и тестировании."
-      },
-      {
-        "en": "Worked with databases, Docker, CI/CD, and external libraries in real development workflows.",
-        "uz": "Haqiqiy ishlab chiqish jarayonlarida ma'lumotlar bazalari, Docker, CI/CD va tashqi kutubxonalar bilan ishladim.",
-        "ru": "Работал с базами данных, Docker, CI/CD и внешними библиотеками в реальных процессах разработки."
-      },
-      {
-        "en": "Contributed across the stack while learning product delivery standards.",
-        "uz": "Mahsulot yetkazib berish standartlarini o'rganish bilan birga to'liq stekda hissa qo'shdim.",
-        "ru": "Вносил вклад по всему стеку, изучая стандарты доставки продуктов."
+        "en": "C#/.Net, EF, Database, Testing, JS, Angular, TypeScript, External libraries, Docker, CI/CD",
+        "uz": "C#/.Net, EF, Ma'lumotlar bazasi, Testlash, JS, Angular, TypeScript, Tashqi kutubxonalar, Docker, CI/CD",
+        "ru": "C#/.Net, EF, Базы данных, Тестирование, JS, Angular, TypeScript, Внешние библиотеки, Docker, CI/CD"
       }
     ]
   },
   {
     "role": {
-      "en": "Full-Stack Engineer (C#/.NET | React)",
-      "uz": "Full-Stack Muhandis (C#/.NET | React)",
-      "ru": "Фулстек-инженер (C#/.NET | React)"
+      "en": "Full Stack Engineer (C#/.NET | React)",
+      "uz": "Full Stack Muhandis (C#/.NET | React)",
+      "ru": "Full Stack инженер (C#/.NET | React)"
     },
     "company": "Freelance",
     "period": "06/2023 — 01/2024",
@@ -157,33 +117,23 @@
       "ru": "Ташкент"
     },
     "summary": {
-      "en": "Led small-scale delivery work as a full-stack engineer, combining backend development with frontend implementation.",
-      "uz": "Full-stack muhandis sifatida kichik hajmdagi yetkazib berish ishlarini boshqardim, backend ishlab chiqishni frontend amalga oshirish bilan birlashtirdim.",
-      "ru": "Руководил небольшими проектами как фулстек-инженер, сочетая бэкенд-разработку с фронтенд-реализацией."
+      "en": "Led a small team of frontend developers, ensuring projects were completed on time with high quality. Strong problem-solving and project management skills.",
+      "uz": "Frontend dasturchilarining kichik jamoasini boshqarish, loyihalarning o'z vaqtida va yuqori sifatda bajarilishini ta'minlash. Kuchli muammolarni hal qilish va loyihalarni boshqarish ko'nikmalari.",
+      "ru": "Руководство небольшой командой фронтенд-разработчиков, обеспечение своевременного и качественного завершения проектов. Сильные навыки решения проблем и управления проектами."
     },
     "highlights": [
       {
-        "en": "Led a small frontend team and kept projects on track with strong quality expectations.",
-        "uz": "Kichik frontend jamoasini boshqardim va loyihalarni yuqori sifat talablari bilan yo'lda ushlabtugtim.",
-        "ru": "Руководил небольшой фронтенд-командой и поддерживал проекты в рамках высоких стандартов качества."
-      },
-      {
-        "en": "Worked with clean architecture, databases, Telegram bots, deployment, and Windows Server.",
-        "uz": "Clean architecture, ma'lumotlar bazalari, Telegram botlar, deployment va Windows Server bilan ishladim.",
-        "ru": "Работал с чистой архитектурой, базами данных, Telegram-ботами, развёртыванием и Windows Server."
-      },
-      {
-        "en": "Built solutions using C#/.NET, React, HTML, CSS, and JavaScript.",
-        "uz": "C#/.NET, React, HTML, CSS va JavaScript yordamida yechimlar yaratdim.",
-        "ru": "Создавал решения на C#/.NET, React, HTML, CSS и JavaScript."
+        "en": "C#/.Net, Clean Architecture, Database, Telegram-Bot, Html, Css, Js, React, Deployment, Windows Server",
+        "uz": "C#/.Net, Clean Architecture, Ma'lumotlar bazasi, Telegram-Bot, Html, Css, Js, React, Deployment, Windows Server",
+        "ru": "C#/.Net, Чистая архитектура, База данных, Telegram-бот, Html, Css, Js, React, развертывание, Windows Server"
       }
     ]
   },
   {
     "role": {
-      "en": "Intern Software Engineer (C#/.NET)",
-      "uz": "Stajyor Dasturiy ta'minot Muhandisi (C#/.NET)",
-      "ru": "Стажёр-программист (C#/.NET)"
+      "en": "Intern as Software Engineer",
+      "uz": "Stajyor dasturiy ta'minot muhandisi",
+      "ru": "Стажер-программист"
     },
     "company": "Itransition",
     "period": "03/2023 — 06/2023",
@@ -193,25 +143,15 @@
       "ru": "Ташкент"
     },
     "summary": {
-      "en": "Developed small web applications and Telegram bots while handling both frontend and backend tasks.",
-      "uz": "Frontend va backend vazifalarni bajarishda kichik veb-ilovalar va Telegram botlarni ishlab chiqdim.",
-      "ru": "Разрабатывал небольшие веб-приложения и Telegram-боты, выполняя фронтенд- и бэкенд-задачи."
+      "en": "Developed small web apps and Telegram bots, handling both frontend and backend tasks. Enthusiastic about learning and contributing to scalable software solutions.",
+      "uz": "Kichik veb-ilovalar va Telegram botlarni ishlab chiqish, frontend va backend vazifalarini bajarish. Kengaytiriladigan dasturiy yechimlarni o'rganish va ularga hissa qo'shishda faollik.",
+      "ru": "Разработка небольших веб-приложений и Telegram-ботов, выполнение задач фронтенда и бэкенда. Интерес к изучению и участию в создании масштабируемых программных решений."
     },
     "highlights": [
       {
-        "en": "Worked with C#/.NET, SQL, EF Core, xUnit, Moq, Git, caching, and message broker concepts.",
-        "uz": "C#/.NET, SQL, EF Core, xUnit, Moq, Git, keshlash va xabar broker konseptsiyalari bilan ishladim.",
-        "ru": "Работал с C#/.NET, SQL, EF Core, xUnit, Moq, Git, кэшированием и концепциями брокеров сообщений."
-      },
-      {
-        "en": "Improved hands-on software engineering skills through practical delivery tasks.",
-        "uz": "Amaliy yetkazib berish vazifalari orqali dasturiy ta'minot muhandisligi ko'nikmalarini yaxshiladim.",
-        "ru": "Улучшил практические навыки разработки ПО через выполнение реальных задач."
-      },
-      {
-        "en": "Built a strong foundation for scalable backend and web development.",
-        "uz": "Kengaytiriladigan backend va veb-ishlab chiqish uchun mustahkam asos yaratdim.",
-        "ru": "Заложил прочную основу для масштабируемой бэкенд- и веб-разработки."
+        "en": "C#/.Net, SQL, EF core, xUnit, Moq, Git, Caching, Message Broker, Html, Css, React",
+        "uz": "C#/.Net, SQL, EF core, xUnit, Moq, Git, Keshlash, Message Broker, Html, Css, React",
+        "ru": "C#/.Net, SQL, EF core, xUnit, Moq, Git, Кэширование, Брокер сообщений, Html, Css, React"
       }
     ]
   }

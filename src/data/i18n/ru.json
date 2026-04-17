@@ -46,5 +46,6 @@
 
   "loading": "Загрузка...",
   "error.title": "Ошибка",
-  "error.message": "Что-то не загрузилось должным образом."
+  "error.message": "Что-то не загрузилось должным образом.",
+  "footer.copyright": "© {{year}} Abduqodirov Sarvar"
 }

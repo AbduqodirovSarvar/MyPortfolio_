@@ -10,9 +10,9 @@
     "ru": "Фулстек-инженер | C#/.NET | Angular"
   },
   "tagline": {
-    "en": "Results-driven full-stack engineer with hands-on experience delivering fintech platforms, government web projects, and scalable business applications.",
-    "uz": "Fintech platformalari, davlat veb-loyihalari va kengaytiriladigan biznes ilovalarini yaratishda amaliy tajribaga ega natijaga yo'naltirilgan full-stack muhandis.",
-    "ru": "Целеустремлённый фулстек-инженер с практическим опытом разработки финтех-платформ, государственных веб-проектов и масштабируемых бизнес-приложений."
+    "en": "Results-driven Full-Stack Engineer with a proven track record of building scalable, reliable, and high-performance web applications.",
+    "uz": "Kengaytiriladigan, ishonchli va yuqori mahsuldor veb-ilovalarni yaratishda isbotlangan tajribaga ega, natijaga yo'naltirilgan Full-Stack muhandis.",
+    "ru": "Ориентированный на результат фулстек-инженер с подтвержденным опытом создания масштабируемых, надежных и высокопроизводительных веб-приложений."
   },
   "location": {
     "en": "Tashkent, Uzbekistan",
@@ -33,7 +33,7 @@
     "uz": "Rezyumeni yuklab olish",
     "ru": "Скачать резюме"
   },
-  "resumeUrl": "#",
+  "resumeUrl": "./src/assets/docs/Abduqodirov Sarvar (C# & Angular) Resume.pdf",
   "socials": [
     {
       "label": "Website",
@@ -80,9 +80,9 @@
   ],
   "about": {
     "intro": {
-      "en": "I build secure, scalable, and user-friendly web solutions across backend, frontend, databases, and deployment workflows. My experience includes fintech platforms such as Finwin and Finbox, government-focused products, and collaborative team delivery.",
-      "uz": "Men backend, frontend, ma'lumotlar bazalari va deployment jarayonlari bo'ylab xavfsiz, kengaytiriladigan va foydalanuvchilarga qulay veb-yechimlar yarataman. Mening tajribam Finwin va Finbox kabi fintech platformalar, davlatga yo'naltirilgan mahsulotlar va jamoaviy yetkazib berishni o'z ichiga oladi.",
-      "ru": "Я создаю безопасные, масштабируемые и удобные веб-решения для бэкенда, фронтенда, баз данных и процессов развёртывания. Мой опыт включает финтех-платформы Finwin и Finbox, государственные продукты и командную доставку."
+      "en": "Results-driven Full-Stack Engineer with experience building scalable web applications across various domains. Proficient in ASP.NET Core, Angular, Entity Framework Core, and SQL/PostgreSQL, with a strong foundation in OOP and modern JavaScript/TypeScript. Skilled in delivering end-to-end solutions, from backend architecture to responsive frontend interfaces, with a focus on performance, security, and usability.",
+      "uz": "Turli sohalarda kengaytiriladigan veb-ilovalarni yaratish tajribasiga ega, natijaga yo'naltirilgan Full-Stack muhandis. ASP.NET Core, Angular, Entity Framework Core va SQL/PostgreSQL bo'yicha malakali, OOP va zamonaviy JavaScript/TypeScript bo'yicha mustahkam poydevorga ega. Backend arxitekturasidan tortib responsive frontend interfeyslarigacha bo'lgan to'liq yechimlarni yetkazib berishda tajribaga ega, asosan mahsuldorlik, xavfsizlik va foydalanish qulayligiga e'tibor qaratadi.",
+      "ru": "Ориентированный на результат фулстек-инженер с опытом создания масштабируемых веб-приложений в различных областях. Владею ASP.NET Core, Angular, Entity Framework Core и SQL/PostgreSQL, обладаю прочными знаниями ООП и современного JavaScript/TypeScript. Опытен в разработке комплексных решений — от архитектуры бэкенда до адаптивных фронтенд-интерфейсов — с фокусом на производительность, безопасность и удобство использования."
     },
     "details": [
       {

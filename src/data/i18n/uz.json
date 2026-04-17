@@ -46,5 +46,6 @@
 
   "loading": "Yuklanmoqda...",
   "error.title": "Xatolik",
-  "error.message": "Biror narsa kutilganidek yuklanmadi."
+  "error.message": "Biror narsa kutilganidek yuklanmadi.",
+  "footer.copyright": "© {{year}} Abduqodirov Sarvar"
 }

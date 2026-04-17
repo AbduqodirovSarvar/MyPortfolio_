@@ -21,18 +21,20 @@ export async function ContactCardComponent() {
     <section class="content-grid content-grid--two">
       <article class="surface contact-card reveal">
         <h2>${t('contact.directTitle')}</h2>
-        <div class="contact-stack">
+        <div class="contact-stack contact-stack--column">
           <a href="mailto:${profile.email}" class="text-link">${profile.email}</a>
           <a href="tel:${profile.phone.replace(/\s+/g, '')}" class="text-link">${profile.phone}</a>
-          <a href="${profile.socials[0].url}" class="text-link" target="_blank" rel="noreferrer">${profile.socials[0].url}</a>
           <p>${localize(profile.location)}</p>
         </div>
-        <a class="button button--primary" href="${localize(profile.contact.ctaUrl)}">${localize(profile.contact.ctaLabel)}</a>
+
       </article>
       <article class="surface contact-card reveal">
         <h2>${t('contact.elsewhereTitle')}</h2>
         <div class="contact-stack">
           ${socials}
+          <a class="contact-link" href="${profile.resumeUrl}" download style="background: var(--accent-soft); color: var(--accent); border-color: transparent;">
+            ${localize(profile.resumeLabel)}
+          </a>
         </div>
       </article>
     </section>
