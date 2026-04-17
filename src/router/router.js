@@ -7,6 +7,7 @@ import { EducationPage } from '../pages/education.page.js';
 import { ContactPage } from '../pages/contact.page.js';
 import { qsa } from '../utils/dom.js';
 import { initRevealAnimations } from '../utils/animations.js';
+import { t } from '../services/i18n.service.js';
 
 const routes = {
   '/': HomePage,
@@ -18,6 +19,8 @@ const routes = {
   '/contact': ContactPage,
 };
 
+let routerRegistered = false;
+
 function getCurrentRoute() {
   const hash = window.location.hash || '#/';
   return hash.replace('#', '');
@@ -27,13 +30,23 @@ function getPageRenderer(path) {
   return routes[path] || HomePage;
 }
 
-export async function renderRoute(outlet) {
+function getOutlet() {
+  return document.querySelector('#router-outlet');
+}
+
+export async function renderRoute(outletOverride) {
+  const outlet = outletOverride || getOutlet();
+
+  if (!outlet) {
+    return;
+  }
+
   const path = getCurrentRoute();
   const renderPage = getPageRenderer(path);
 
   outlet.innerHTML = `
     <section class="loading-state surface">
-      <span class="loading-state__label">Loading experience...</span>
+      <span class="loading-state__label">${t('loading')}</span>
     </section>
   `;
 
@@ -47,8 +60,8 @@ export async function renderRoute(outlet) {
     outlet.innerHTML = `
       <section class="loading-state surface">
         <div class="page-header">
-          <span class="page-header__eyebrow">Error</span>
-          <h1>Something did not load as expected.</h1>
+          <span class="page-header__eyebrow">${t('error.title')}</span>
+          <h1>${t('error.message')}</h1>
           <p>${error.message}</p>
         </div>
       </section>
@@ -57,7 +70,11 @@ export async function renderRoute(outlet) {
 }
 
 export function registerRouter(outlet) {
-  window.addEventListener('hashchange', () => renderRoute(outlet));
+  if (!routerRegistered) {
+    window.addEventListener('hashchange', () => renderRoute());
+    routerRegistered = true;
+  }
+
   renderRoute(outlet);
 }
 

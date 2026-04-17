@@ -1,6 +1,7 @@
 import { HomeHeroComponent } from '../components/home/HomeHeroComponent.js';
 import { HomeStatsComponent } from '../components/home/HomeStatsComponent.js';
 import { ProjectsGridComponent } from '../components/projects/ProjectsGridComponent.js';
+import { t } from '../services/i18n.service.js';
 
 export async function HomePage() {
   const [hero, stats, projects] = await Promise.all([
@@ -15,8 +16,8 @@ export async function HomePage() {
       ${stats}
       <section class="home-preview">
         <div class="section-heading reveal">
-          <span class="eyebrow">Featured Work</span>
-          <h2>Recent projects with a product-minded engineering lens.</h2>
+          <span class="eyebrow">${t('home.featuredEyebrow')}</span>
+          <h2>${t('home.featuredTitle')}</h2>
         </div>
         ${projects.replace(/<header class="page-header reveal">[\s\S]*?<\/header>/, '')}
       </section>

@@ -1,4 +1,5 @@
 import { getProfile } from '../../services/data.service.js';
+import { localize } from '../../services/i18n.service.js';
 
 export async function HomeStatsComponent() {
   const profile = await getProfile();
@@ -7,7 +8,7 @@ export async function HomeStatsComponent() {
       (stat) => `
         <article class="stat-card surface reveal">
           <strong>${stat.value}</strong>
-          <span>${stat.label}</span>
+          <span>${localize(stat.label)}</span>
         </article>
       `
     )

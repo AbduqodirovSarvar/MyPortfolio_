@@ -1,3 +1,5 @@
+import { t } from '../services/i18n.service.js';
+
 const THEME_KEY = 'portfolio-theme';
 
 export function getInitialTheme() {
@@ -32,8 +34,7 @@ function updateToggle(toggleElement, theme) {
     return;
   }
 
-  toggleElement.setAttribute('aria-label', `Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`);
-  toggleElement.innerHTML = `
-    <span>${theme === 'dark' ? 'Light' : 'Dark'} Mode</span>
-  `;
+  const label = theme === 'dark' ? t('theme.light') : t('theme.dark');
+  toggleElement.setAttribute('aria-label', label);
+  toggleElement.innerHTML = `<span>${label}</span>`;
 }

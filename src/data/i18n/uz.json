@@ -1,0 +1,50 @@
+{
+  "nav.home": "Bosh sahifa",
+  "nav.about": "Men haqimda",
+  "nav.skills": "Ko'nikmalar",
+  "nav.experience": "Tajriba",
+  "nav.projects": "Loyihalar",
+  "nav.education": "Ta'lim",
+  "nav.contact": "Aloqa",
+
+  "hero.eyebrow": "Dasturiy ta'minot muhandisi portfoliosi",
+  "hero.viewProjects": "Loyihalarni ko'rish",
+  "hero.letsTalk": "Bog'lanish",
+
+  "home.featuredEyebrow": "Tanlangan ishlar",
+  "home.featuredTitle": "Mahsulotga yo'naltirilgan muhandislik yondashuvi bilan yaratilgan so'nggi loyihalar.",
+
+  "about.eyebrow": "Men haqimda",
+  "about.title": "Kuchli muhandislik asoslari bilan o'ylangan raqamli tajribalar yaratish.",
+  "about.howIWork": "Qanday ishlayman",
+  "about.languages": "Tillar",
+  "about.certEyebrow": "Sertifikatlar",
+  "about.certTitle": "Mahsulot yetkazib berish bilan birga uzluksiz o'rganish.",
+
+  "skills.eyebrow": "Ko'nikmalar",
+  "skills.title": "Mahsulot sezgisi, frontend san'ati va kengaytiriladigan muhandislikning muvozanatli aralashmasi.",
+  "skills.description": "Mening asboblar to'plamim chiroyli ko'rinish va uzoq muddat xizmat qiladigan ishlab chiqarish interfeyslarini yaratish tajribasidan shakllanadi.",
+
+  "experience.eyebrow": "Tajriba",
+  "experience.title": "Interfeyslar, tizimlar va jamoa samaradorligini shakllantirganimda so'nggi lavozimlar.",
+  "experience.description": "Kuchli dizayn mosligi bilan mahsulotga yo'naltirilgan muhandislik ishlarini amalga oshirgan muhitlarning qisqacha ko'rinishi.",
+
+  "projects.eyebrow": "Loyihalar",
+  "projects.title": "Sifat, samaradorlik va amaliy mahsulot ta'siriga yo'naltirilgan tanlangan ishlar.",
+  "projects.description": "Frontend tizimlari, foydalanuvchi tajribasi va yetkazib berish sifatiga bo'lgan yondashuvimni aks ettiruvchi bir nechta vakillik loyihalar.",
+
+  "education.eyebrow": "Ta'lim",
+  "education.title": "Uzluksiz o'rganish va amaliy mahsulot ishlari bilan qo'llab-quvvatlanadigan rasmiy ta'lim.",
+  "education.description": "Men asoslarni qadrlayman, lekin eng yaxshi o'sish o'rganish va amaliyot bir-birini to'ldirganida sodir bo'lishiga ishonaman.",
+
+  "contact.eyebrow": "Aloqa",
+  "contact.directTitle": "To'g'ridan-to'g'ri aloqa",
+  "contact.elsewhereTitle": "Boshqa platformalar",
+
+  "theme.light": "Yorug' rejim",
+  "theme.dark": "Qorong'u rejim",
+
+  "loading": "Yuklanmoqda...",
+  "error.title": "Xatolik",
+  "error.message": "Biror narsa kutilganidek yuklanmadi."
+}

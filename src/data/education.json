@@ -1,20 +1,56 @@
 [
   {
-    "institution": "Tashkent University of Information Technologies",
-    "degree": "Bachelor's Degree, Cyber Security",
-    "period": "09/2020 - 07/2024",
-    "details": "Participated in coding clubs, tech workshops, and collaborative projects while strengthening problem solving, teamwork, and practical software development. Core study areas included C++, Python, SQL, JavaScript, web development, data structures and algorithms, encryption, decryption, and cybersecurity."
+    "institution": {
+      "en": "Tashkent University of Information Technologies",
+      "uz": "Toshkent Axborot Texnologiyalari Universiteti",
+      "ru": "Ташкентский Университет Информационных Технологий"
+    },
+    "degree": {
+      "en": "Bachelor's Degree, Cyber Security",
+      "uz": "Bakalavr darajasi, Kiberxavfsizlik",
+      "ru": "Степень бакалавра, Кибербезопасность"
+    },
+    "period": "09/2020 — 07/2024",
+    "details": {
+      "en": "Participated in coding clubs, tech workshops, and collaborative projects while strengthening problem solving, teamwork, and practical software development. Core study areas included C++, Python, SQL, JavaScript, web development, data structures and algorithms, encryption, decryption, and cybersecurity.",
+      "uz": "Muammolarni hal qilish, jamoaviy ish va amaliy dasturiy ta'minotni ishlab chiqishni mustahkamlashda dasturlash klublari, texnik seminarlar va hamkorlik loyihalarida ishtirok etdim. Asosiy o'quv sohalari C++, Python, SQL, JavaScript, veb-ishlab chiqish, ma'lumotlar tuzilmalari va algoritmlar, shifrlash, deshifrlash va kiberxavfsizlikni o'z ichiga oldi.",
+      "ru": "Участвовал в клубах программирования, технических воркшопах и совместных проектах, укрепляя навыки решения задач, командной работы и практической разработки ПО. Основные области изучения: C++, Python, SQL, JavaScript, веб-разработка, структуры данных и алгоритмы, шифрование, дешифрование и кибербезопасность."
+    }
   },
   {
-    "institution": "Najot Ta'lim Digital Academy",
-    "degree": "Apprenticeship, Software Development",
-    "period": "07/2022 - 04/2023",
-    "details": "Completed foundation training in C and Python followed by a .NET bootcamp focused on C#, ASP.NET Core, Entity Framework, REST API development, PostgreSQL, SQL Server, OOP, debugging, and practical backend project delivery."
+    "institution": {
+      "en": "Najot Ta'lim Digital Academy",
+      "uz": "Najot Ta'lim Raqamli Akademiyasi",
+      "ru": "Цифровая Академия Najot Ta'lim"
+    },
+    "degree": {
+      "en": "Apprenticeship, Software Development",
+      "uz": "Stajirovka, Dasturiy ta'minot ishlab chiqish",
+      "ru": "Стажировка, Разработка ПО"
+    },
+    "period": "07/2022 — 04/2023",
+    "details": {
+      "en": "Completed foundation training in C and Python followed by a .NET bootcamp focused on C#, ASP.NET Core, Entity Framework, REST API development, PostgreSQL, SQL Server, OOP, debugging, and practical backend project delivery.",
+      "uz": "C va Python bo'yicha asosiy ta'limni tamomladim, so'ngra C#, ASP.NET Core, Entity Framework, REST API ishlab chiqish, PostgreSQL, SQL Server, OOP, debugging va amaliy backend loyiha yetkazib berishga qaratilgan .NET bootcamp.",
+      "ru": "Прошёл базовое обучение по C и Python, затем .NET-буткемп с фокусом на C#, ASP.NET Core, Entity Framework, разработку REST API, PostgreSQL, SQL Server, ООП, отладку и практическую доставку бэкенд-проектов."
+    }
   },
   {
-    "institution": "Online Courses & Certifications",
-    "degree": "Coursera Professional Learning",
-    "period": "2023 - 2024",
-    "details": "Included Building Services with ASP.NET Web API, Object Oriented Development using C#, Programming in C#, Open Source Software Development Methods, and Introduction to Cyber Security Tools & Cyber Attacks."
+    "institution": {
+      "en": "Online Courses & Certifications",
+      "uz": "Onlayn kurslar va Sertifikatlar",
+      "ru": "Онлайн-курсы и Сертификаты"
+    },
+    "degree": {
+      "en": "Coursera Professional Learning",
+      "uz": "Coursera Professional Ta'lim",
+      "ru": "Профессиональное обучение на Coursera"
+    },
+    "period": "2023 — 2024",
+    "details": {
+      "en": "Included Building Services with ASP.NET Web API, Object Oriented Development using C#, Programming in C#, Open Source Software Development Methods, and Introduction to Cyber Security Tools & Cyber Attacks.",
+      "uz": "ASP.NET Web API bilan xizmatlarni yaratish, C# yordamida ob'ektga yo'naltirilgan ishlab chiqish, C# da dasturlash, ochiq manbali dasturiy ta'minotni ishlab chiqish usullari va kiberxavfsizlik vositalari va kiberhujumlar bilan tanishuvni o'z ichiga oldi.",
+      "ru": "Включал курсы: Создание сервисов с ASP.NET Web API, Объектно-ориентированная разработка на C#, Программирование на C#, Методы разработки ПО с открытым исходным кодом и Введение в инструменты кибербезопасности и кибератаки."
+    }
   }
 ]

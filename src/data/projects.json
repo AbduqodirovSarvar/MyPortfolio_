@@ -1,38 +1,120 @@
 [
   {
     "name": "Finwin",
-    "type": "Fintech Web Platform",
+    "type": {
+      "en": "Fintech Web Platform",
+      "uz": "Fintech Veb Platforma",
+      "ru": "Финтех веб-платформа"
+    },
     "year": "2025",
-    "description": "A modern web implementation of 1C accounting workflows built for business operations and financial processes.",
+    "description": {
+      "en": "A modern web implementation of 1C accounting workflows built for business operations and financial processes.",
+      "uz": "Biznes operatsiyalari va moliyaviy jarayonlar uchun yaratilgan 1C buxgalteriya ish jarayonlarining zamonaviy veb-amalga oshirilishi.",
+      "ru": "Современная веб-реализация рабочих процессов бухгалтерии 1С для бизнес-операций и финансовых процессов."
+    },
     "stack": ["C#", ".NET", "Angular", "Database Design", "Deployment"],
-    "impact": "Contributed across software design, backend development, frontend implementation, and deployment in a production environment.",
+    "impact": {
+      "en": "Contributed across software design, backend development, frontend implementation, and deployment in a production environment.",
+      "uz": "Dasturiy ta'minot dizayni, backend ishlab chiqish, frontend amalga oshirish va ishlab chiqarish muhitida deployment bo'ylab hissa qo'shdim.",
+      "ru": "Внёс вклад в проектирование ПО, бэкенд-разработку, фронтенд-реализацию и развёртывание в продакшн-среде."
+    },
     "links": [
-      { "label": "Company Work", "url": "#" },
-      { "label": "Tech Stack", "url": "#" }
+      {
+        "label": {
+          "en": "Company Work",
+          "uz": "Kompaniya ishi",
+          "ru": "Работа компании"
+        },
+        "url": "#"
+      },
+      {
+        "label": {
+          "en": "Tech Stack",
+          "uz": "Texnologiyalar",
+          "ru": "Технологии"
+        },
+        "url": "#"
+      }
     ]
   },
   {
     "name": "Finbox",
-    "type": "Payment Platform",
+    "type": {
+      "en": "Payment Platform",
+      "uz": "To'lov Platformasi",
+      "ru": "Платёжная платформа"
+    },
     "year": "2025",
-    "description": "A payment-focused platform delivered as part of professional fintech engineering work with full-stack responsibilities.",
+    "description": {
+      "en": "A payment-focused platform delivered as part of professional fintech engineering work with full-stack responsibilities.",
+      "uz": "Full-stack mas'uliyati bilan professional fintech muhandislik ishining bir qismi sifatida yetkazilgan to'lovga yo'naltirilgan platforma.",
+      "ru": "Платёжная платформа, разработанная в рамках профессиональной финтех-инженерной работы с фулстек-обязанностями."
+    },
     "stack": ["ASP.NET Core", "Angular", "PostgreSQL", "Full-Stack Delivery"],
-    "impact": "Helped deliver robust and scalable web solutions for finance-oriented product requirements.",
+    "impact": {
+      "en": "Helped deliver robust and scalable web solutions for finance-oriented product requirements.",
+      "uz": "Moliyaga yo'naltirilgan mahsulot talablari uchun mustahkam va kengaytiriladigan veb-yechimlarni yetkazib berishga yordam berdim.",
+      "ru": "Помог доставить надёжные и масштабируемые веб-решения для финансово-ориентированных продуктовых требований."
+    },
     "links": [
-      { "label": "Platform Scope", "url": "#" },
-      { "label": "Implementation Notes", "url": "#" }
+      {
+        "label": {
+          "en": "Platform Scope",
+          "uz": "Platforma doirasi",
+          "ru": "Область платформы"
+        },
+        "url": "#"
+      },
+      {
+        "label": {
+          "en": "Implementation Notes",
+          "uz": "Amalga oshirish qaydlari",
+          "ru": "Заметки по реализации"
+        },
+        "url": "#"
+      }
     ]
   },
   {
-    "name": "Government & Custom Web Solutions",
-    "type": "Full-Stack Delivery",
-    "year": "2023 - 2024",
-    "description": "A collection of freelance and team-based projects including responsive web apps, Telegram bots, and custom internal systems.",
+    "name": {
+      "en": "Government & Custom Web Solutions",
+      "uz": "Davlat va Maxsus Veb Yechimlar",
+      "ru": "Государственные и заказные веб-решения"
+    },
+    "type": {
+      "en": "Full-Stack Delivery",
+      "uz": "Full-Stack Yetkazib berish",
+      "ru": "Фулстек-доставка"
+    },
+    "year": "2023 — 2024",
+    "description": {
+      "en": "A collection of freelance and team-based projects including responsive web apps, Telegram bots, and custom internal systems.",
+      "uz": "Responsive veb-ilovalar, Telegram botlar va maxsus ichki tizimlarni o'z ichiga olgan frilanser va jamoaviy loyihalar to'plami.",
+      "ru": "Коллекция фрилансерских и командных проектов, включая адаптивные веб-приложения, Telegram-ботов и пользовательские внутренние системы."
+    },
     "stack": ["C#/.NET", "React", "Angular", "Telegram Bot", "Windows Server"],
-    "impact": "Combined problem solving, small-team leadership, deployment, and clean architecture practices to ship practical business solutions.",
+    "impact": {
+      "en": "Combined problem solving, small-team leadership, deployment, and clean architecture practices to ship practical business solutions.",
+      "uz": "Amaliy biznes yechimlarini yetkazib berish uchun muammolarni hal qilish, kichik jamoa rahbarligi, deployment va clean architecture amaliyotlarini birlashtirdim.",
+      "ru": "Сочетал решение проблем, руководство малой командой, развёртывание и практики чистой архитектуры для доставки практических бизнес-решений."
+    },
     "links": [
-      { "label": "Project Scope", "url": "#" },
-      { "label": "Delivery Focus", "url": "#" }
+      {
+        "label": {
+          "en": "Project Scope",
+          "uz": "Loyiha doirasi",
+          "ru": "Область проекта"
+        },
+        "url": "#"
+      },
+      {
+        "label": {
+          "en": "Delivery Focus",
+          "uz": "Yetkazib berish fokusi",
+          "ru": "Фокус доставки"
+        },
+        "url": "#"
+      }
     ]
   }
 ]

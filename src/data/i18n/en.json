@@ -1,0 +1,50 @@
+{
+  "nav.home": "Home",
+  "nav.about": "About",
+  "nav.skills": "Skills",
+  "nav.experience": "Experience",
+  "nav.projects": "Projects",
+  "nav.education": "Education",
+  "nav.contact": "Contact",
+
+  "hero.eyebrow": "Software Engineer Portfolio",
+  "hero.viewProjects": "View Projects",
+  "hero.letsTalk": "Let's Talk",
+
+  "home.featuredEyebrow": "Featured Work",
+  "home.featuredTitle": "Recent projects with a product-minded engineering lens.",
+
+  "about.eyebrow": "About",
+  "about.title": "Building thoughtful digital experiences with strong engineering foundations.",
+  "about.howIWork": "How I work",
+  "about.languages": "Languages",
+  "about.certEyebrow": "Certifications",
+  "about.certTitle": "Continuous learning alongside product delivery.",
+
+  "skills.eyebrow": "Skills",
+  "skills.title": "A balanced blend of product sense, frontend craft, and scalable engineering.",
+  "skills.description": "My toolkit is shaped by building production interfaces that need to look polished and stay maintainable over time.",
+
+  "experience.eyebrow": "Experience",
+  "experience.title": "Recent roles where I shaped interfaces, systems, and team velocity.",
+  "experience.description": "A snapshot of the environments where I have delivered product-facing engineering work with strong design alignment.",
+
+  "projects.eyebrow": "Projects",
+  "projects.title": "Selected work focused on polish, performance, and practical product impact.",
+  "projects.description": "A few representative builds that highlight my approach to frontend systems, user experience, and delivery quality.",
+
+  "education.eyebrow": "Education",
+  "education.title": "Formal training supported by continuous learning and practical product work.",
+  "education.description": "I value fundamentals, but I also believe the best growth happens when study and shipping inform each other.",
+
+  "contact.eyebrow": "Contact",
+  "contact.directTitle": "Direct contact",
+  "contact.elsewhereTitle": "Elsewhere",
+
+  "theme.light": "Light Mode",
+  "theme.dark": "Dark Mode",
+
+  "loading": "Loading experience...",
+  "error.title": "Error",
+  "error.message": "Something did not load as expected."
+}

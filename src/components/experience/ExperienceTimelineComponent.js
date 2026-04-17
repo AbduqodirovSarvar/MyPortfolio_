@@ -1,5 +1,6 @@
 import { getExperience } from '../../services/data.service.js';
 import { PageHeaderComponent } from '../shared/PageHeaderComponent.js';
+import { t, localize, localizeArray } from '../../services/i18n.service.js';
 
 export async function ExperienceTimelineComponent() {
   const experience = await getExperience();
@@ -10,13 +11,13 @@ export async function ExperienceTimelineComponent() {
           <div class="timeline-card__top">
             <div>
               <span class="eyebrow">${item.period}</span>
-              <h2>${item.role}</h2>
-              <p class="muted">${item.company} • ${item.location}</p>
+              <h2>${localize(item.role)}</h2>
+              <p class="muted">${item.company} • ${localize(item.location)}</p>
             </div>
           </div>
-          <p>${item.summary}</p>
+          <p>${localize(item.summary)}</p>
           <ul class="detail-list">
-            ${item.highlights.map((highlight) => `<li>${highlight}</li>`).join('')}
+            ${localizeArray(item.highlights).map((highlight) => `<li>${highlight}</li>`).join('')}
           </ul>
         </article>
       `
@@ -25,10 +26,9 @@ export async function ExperienceTimelineComponent() {
 
   return `
     ${PageHeaderComponent({
-      eyebrow: 'Experience',
-      title: 'Recent roles where I shaped interfaces, systems, and team velocity.',
-      description:
-        'A snapshot of the environments where I have delivered product-facing engineering work with strong design alignment.',
+      eyebrow: t('experience.eyebrow'),
+      title: t('experience.title'),
+      description: t('experience.description'),
     })}
     <section class="timeline">
       ${items}

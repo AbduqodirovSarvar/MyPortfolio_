@@ -1,4 +1,5 @@
 import { getProfile } from '../../services/data.service.js';
+import { t, localize } from '../../services/i18n.service.js';
 
 export async function HomeHeroComponent() {
   const profile = await getProfile();
@@ -15,23 +16,29 @@ export async function HomeHeroComponent() {
   return `
     <section class="hero reveal">
       <div class="hero__content">
-        <span class="eyebrow">Software Engineer Portfolio</span>
-        <h1>${profile.fullName}</h1>
-        <p class="hero__title">${profile.title}</p>
-        <p class="hero__tagline">${profile.tagline}</p>
+        <span class="eyebrow">${t('hero.eyebrow')}</span>
+        <h1>${localize(profile.fullName)}</h1>
+        <p class="hero__title">${localize(profile.title)}</p>
+        <p class="hero__tagline">${localize(profile.tagline)}</p>
         <div class="hero__actions">
-          <a class="button button--primary" href="#/projects">View Projects</a>
-          <a class="button button--secondary" href="#/contact">Let's Talk</a>
+          <a class="button button--primary" href="#/projects">${t('hero.viewProjects')}</a>
+          <a class="button button--secondary" href="#/contact">${t('hero.letsTalk')}</a>
         </div>
         <div class="chip-group">
           ${socials}
         </div>
       </div>
       <div class="hero__panel surface">
-        <div class="hero__avatar">${profile.heroImage}</div>
+        <div class="hero__avatar">
+          ${
+            profile.profileImage
+              ? `<img src="${profile.profileImage}" alt="${localize(profile.fullName)}" class="hero__profile-img" />`
+              : profile.heroImage
+          }
+        </div>
         <div class="hero__meta">
-          <p>${profile.location}</p>
-          <strong>${profile.availability}</strong>
+          <p>${localize(profile.location)}</p>
+          <strong>${localize(profile.availability)}</strong>
         </div>
       </div>
     </section>
