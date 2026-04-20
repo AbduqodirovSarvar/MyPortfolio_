@@ -33,19 +33,15 @@
     "uz": "Rezyumeni yuklab olish",
     "ru": "Скачать резюме"
   },
-  "resumeUrl": "./src/assets/docs/Abduqodirov Sarvar (C# & Angular) Resume.pdf",
+  "resumeUrl": "./src/assets/docs/Abduqodirov_Sarvar_Resume.pdf",
   "socials": [
-    {
-      "label": "Website",
-      "url": "https://sarvarbekabduqodirov.uz"
-    },
     {
       "label": "LinkedIn",
       "url": "https://www.linkedin.com/in/abduqodirov-sarvarbek"
     },
     {
       "label": "Telegram",
-      "url": "https://t.me/Sarvarbek_Abduqodirov"
+      "url": "https://t.me/AbduqodirovSarvar"
     },
     {
       "label": "GitHub",

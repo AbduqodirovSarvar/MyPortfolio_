@@ -23,7 +23,7 @@ export async function HomeHeroComponent() {
         <div class="hero__actions">
           <a class="button button--primary" href="#/projects">${t('hero.viewProjects')}</a>
           <a class="button button--secondary" href="#/contact">${t('hero.letsTalk')}</a>
-          <a class="button button--secondary" href="${profile.resumeUrl}" download>${localize(profile.resumeLabel)}</a>
+          <a class="button button--secondary" href="${profile.resumeUrl}" download="Abduqodirov Sarvar (C# & Angular) Resume.pdf">${localize(profile.resumeLabel)}</a>
         </div>
         <div class="chip-group">
           ${socials}

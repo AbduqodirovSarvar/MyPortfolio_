@@ -32,7 +32,7 @@ export async function ContactCardComponent() {
         <h2>${t('contact.elsewhereTitle')}</h2>
         <div class="contact-stack">
           ${socials}
-          <a class="contact-link" href="${profile.resumeUrl}" download style="background: var(--accent-soft); color: var(--accent); border-color: transparent;">
+          <a class="contact-link" href="${profile.resumeUrl}" download="Abduqodirov Sarvar (C# & Angular) Resume.pdf" style="background: var(--accent-soft); color: var(--accent); border-color: transparent;">
             ${localize(profile.resumeLabel)}
           </a>
         </div>
